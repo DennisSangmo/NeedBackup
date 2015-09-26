@@ -1,0 +1,2 @@
+2015-09-26 14:54:27,628 [1] DEBUG HibernatingRhinos.Profiler.Client.App [(null)] - Profiler initialized. Build: 3084
+2015-09-26 14:54:31,582 [1] DEBUG HibernatingRhinos.Profiler.Client.App [(null)] - Profiler initialized. Build: 3084
